@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: google-kichi
+    name: google-com-satake
     env: docker
     plan: free
